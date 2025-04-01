@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/BlazorBootstrap
+/BlazorBootstrap.Notika/bin/Debug/net9.0
+/BlazorBootstrap.Notika/obj
+/BlazorBootstrap.Notika/BlazorBootstrap.Notika.csproj.user
+/BlazorBootstrap.slnLaunch.user
